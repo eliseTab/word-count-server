@@ -1,0 +1,12 @@
+2015-06-22 22:55:50,465 INFO [service.Server] Server started
+2015-06-22 22:55:51,052 INFO [process.ServerGUI] Opening server user interface
+2015-06-22 22:55:51,052 INFO [process.ServerGUI] Instantiating server socket with port 31190
+2015-06-22 22:55:51,069 INFO [process.ServerGUI] Successfully instantiated server socket
+2015-06-22 22:55:51,072 INFO [dao.DbConnector] Connecting to jdbc:mysql://localhost:3306/worddb
+2015-06-22 22:55:51,075 ERROR [dao.DbConnector] No suitable driver found for jdbc:mysql://localhost:3306/worddb
+2015-06-22 22:55:51,076 INFO [process.ServerGUI] Waiting for client connections...
+2015-06-22 22:55:54,327 INFO [dao.DbAccess] Retrieving current word count list
+2015-06-22 22:56:05,159 INFO [process.ServerGUI] Connected to Client 1
+2015-06-22 22:56:05,169 INFO [process.ServerGUI] Waiting for client connections...
+2015-06-22 22:56:11,258 INFO [process.ServerGUI] Received from client 1: tert
+2015-06-22 22:56:11,258 INFO [dao.DbAccess] Getting count associated to tert
